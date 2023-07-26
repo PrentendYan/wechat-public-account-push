@@ -14,8 +14,8 @@
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'c9951636322280eaca625313636cd323',
 
-  PROVINCE: '上海',
-  CITY: '上海',
+  PROVINCE: 'Connnecticut',
+  CITY: 'Skiff St.',
 
   USERS: [
     {
