@@ -24,7 +24,7 @@
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oib9Z63xYxXx7rIi4mbE1Uw0ubR0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '	IRgb0iI8QBrPyNWMGlkM6fy3rXXDpu3CfGpDul5pun8',
+      useTemplateId: 'Ue1JCevO8N54butDSJs0H1qe_fGB_yUjC6_ApWhqngc',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '08-28',
       festivals: [
@@ -45,7 +45,7 @@
         // 在一起的日子
         { keyword: 'love_day', date: '2023-04-22' },
         //  结婚纪念日
-         { keyword: 'The_first_day_we_met', date: '2023-04-13' },
+         { keyword: 'marry_day', date: '2023-04-13' },
       ],
     },
   ],
