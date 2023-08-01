@@ -15,7 +15,7 @@
   APP_SECRET: 'c9951636322280eaca625313636cd323',
 
   PROVINCE: '浙江',
-  CITY: '瑞安',
+  CITY: '温州',
 
   USERS: [
     {
