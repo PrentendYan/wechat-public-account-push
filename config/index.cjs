@@ -15,16 +15,16 @@
   APP_SECRET: 'c9951636322280eaca625313636cd323',
 
   PROVINCE: '浙江',
-  CITY: '温州',
+  CITY: '瑞安市',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '宝宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oib9Z65LBymqBbMsKksElI645mGE',
+      id: 'oib9Z63xYxXx7rIi4mbE1Uw0ubR0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'P8Il9ioNmFtO8EBAvJ8MHLphRtyv__KgUdDdAjpJ_-M',
+      useTemplateId: 'uO7gy2aFX4YTOWPV9YzAHxj3IoDIfzPN6nWMmsvEX78',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '08-28',
       festivals: [
